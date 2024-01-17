@@ -28,4 +28,3 @@ onMounted(() => {
     <p>{{ event.description }}</p>
   </div>
 </template>
-<!---->
